@@ -24,7 +24,7 @@ return(
         <>
          
          <Link href={{pathname:`/video/${resp.id}`,query:{
-         name:`${resp.link}`
+         name:`https://www.youtube-nocookie.com/embed/${resp.videoId}?playlist=${resp.videoId}&autoplay=1&iv_load_policy=3&loop=1&start=`
          }}}>
          
          <div class="content">
