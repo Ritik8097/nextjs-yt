@@ -57,7 +57,7 @@ display: grid;
     
  }
 
-  @media screen and (min-width:750px){
+  @media screen and (min-width:600px){
  .all{
      grid-template-columns: repeat(3,1fr);
   }
@@ -81,7 +81,7 @@ display: grid;
 
 
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 900px) {
   .image{
     width: 340px;
     margin-left: 4px;
