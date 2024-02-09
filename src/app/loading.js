@@ -14,6 +14,18 @@ function Loading() {
   <p class="paragraph"></p>
   <p class="paragraph"></p>
   <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
+    <p class="paragraph"></p>
 </div>
 
 
