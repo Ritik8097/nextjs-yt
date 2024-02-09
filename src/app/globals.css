@@ -37,7 +37,7 @@ display: grid;
 }
 
 
- 
+ @media screen and (min-width:497px){
  .all{
      grid-template-columns: repeat(3,1fr);
   }
@@ -54,6 +54,9 @@ display: grid;
     height: 250px;
     object-fit:cover;
   }
+    
+ }
+
   
 
 
