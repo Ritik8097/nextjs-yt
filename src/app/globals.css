@@ -42,7 +42,7 @@ display: grid;
 
 
 
-@media only screen and (min-device-width: 497px) and (max-device-width: 1024px) and (orientation:portrait){
+@media screen and (min-device-width: 497px) {
   .image{
     width: 340px;
     margin-left: 4px;
