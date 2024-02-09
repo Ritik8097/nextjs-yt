@@ -36,7 +36,7 @@ display: grid;
   margin-top: 10px;
 }
 
-@media screen and (min-device-width: 768px) and (max-device-width: 1000px){
+@media screen and (min-device-width: 769px) and (max-device-width: 1000px){
     .content{
     display: inline-flex;
     margin-top: 10px;
@@ -85,7 +85,7 @@ display: grid;
 
 
 
-@media screen and (min-device-width: 497px) and (max-device-width: 768px){
+@media screen and (min-device-width: 497px) and (max-device-width: 769px){
   .image{
     width: 340px;
     margin-left: 4px;
